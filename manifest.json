@@ -1,0 +1,28 @@
+{
+  "name": "قناديل ميوزك — مشغّل موسيقى بدون إنترنت",
+  "short_name": "قناديل ميوزك",
+  "description": "مشغّل موسيقى يعمل بالكامل دون اتصال، مع إدارة قوائم تشغيل وتخزين محلي داخل الجهاز.",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#0D1E3D",
+  "theme_color": "#1B3A6B",
+  "categories": ["music", "entertainment"],
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ]
+}
